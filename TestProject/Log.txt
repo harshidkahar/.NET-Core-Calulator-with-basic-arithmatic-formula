@@ -1,0 +1,234 @@
+﻿
+Log Entry : Date Time:Sunday, May 31, 2020 3:24:47 PM
+Type of Calculation :Algorithm1
+Inputs A = 0.1, B = 0.5
+Result = 0.05
+----------------------------------
+
+Log Entry : Date Time:Sunday, May 31, 2020 3:24:59 PM
+Type of Calculation :Algorithm2
+Inputs A = 0.7, B = 0.3
+Result = 0.79
+----------------------------------
+
+Log Entry : Date Time:Sunday, May 31, 2020 3:43:20 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 1.0, B = 0.5
+Result = 0.50
+----------------------------------
+
+Log Entry : Date Time:Sunday, May 31, 2020 3:43:31 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.7, B = 0.9
+Result = 0.97
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 12:55:44 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 1:50:23 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 1:50:32 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 1:50:50 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 1:55:53 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:39:00 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0.28
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:40:38 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:41:11 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:42:32 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0.05
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:57:45 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0.02
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:57:53 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0.55
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:58:21 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0.55
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:58:42 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.3, B = 0.7
+Result = 0.21
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 2:58:52 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.3, B = 0.7
+Result = 0.79
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:10:11 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0.05
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:10:19 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.3, B = 0.8
+Result = 0.24
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:10:30 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.3, B = 0.8
+Result = 0.24
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:10:43 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.3, B = 0.8
+Result = 0.24
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:11:52 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.3, B = 0.8
+Result = 0.86
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:18:01 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0.55
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:19:51 PM
+Type of Calculation :Algorithm3
+Inputs A = 0.1, B = 0.2
+Result = -1.28
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:20:08 PM
+Type of Calculation :Algorithm3
+Inputs A = 0.9, B = 0.5
+Result = -0.5055555555555555555555555556
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:20:45 PM
+Type of Calculation :Algorithm3
+Inputs A = 0.9, B = 0.5
+Result = -0.6111111111111111111111111111
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:21:46 PM
+Type of Calculation :Algorithm3
+Inputs A = 0.9, B = 0.5
+Result = 1.6111111111111111111111111111
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:23:40 PM
+Type of Calculation :Algorithm3
+Inputs A = 0.9, B = 0.5
+Result = 1.6111111111111111111111111111
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:33:39 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.1, B = 0.5
+Result = 0.55
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:37:47 PM
+Type of Calculation :Algorithm3
+Inputs A = 0.1, B = 0.5
+Result = 0
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:56:09 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0.02
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:56:15 PM
+Type of Calculation :Algorithm3
+Inputs A = 0.1, B = 0.5
+Result = 0.02
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 3:56:50 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0.02
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 4:02:53 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0.28
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 4:09:41 PM
+Type of Calculation :P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0.02
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 4:09:46 PM
+Type of Calculation :P(A) + P(B) - P(A)P(B)
+Inputs A = 0.1, B = 0.2
+Result = 0.28
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 4:14:00 PM
+Type of Calculation :(a+b) - (a*b)
+Inputs A = 0.1, B = 0.2
+Result = 0.28
+----------------------------------
+
+Log Entry : Date Time:Friday, June 5, 2020 4:16:53 PM
+Type of Calculation :((a_b) + (a+b) - (a-b))/(a)
+Inputs A = 0.1, B = 0.2
+Result = Mathematical expression is invalid!!!
+----------------------------------
